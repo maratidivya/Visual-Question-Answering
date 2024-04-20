@@ -21,7 +21,9 @@ Dataset files are as follows:
 
 ## User Interface
 
-![Screenshot 2024-04-07 150540](https://github.com/maratidivya/Visual-Question-Answering/assets/107937294/3f5e3b85-3e61-4093-a47b-87fc9de1b242 =250x250)
+
+
+<img src= "https://github.com/maratidivya/Visual-Question-Answering/assets/107937294/3f5e3b85-3e61-4093-a47b-87fc9de1b242" width="100" height="100" >
 
 
 ## How to run this
