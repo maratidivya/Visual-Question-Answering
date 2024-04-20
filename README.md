@@ -42,9 +42,9 @@ python app.py
 4.Open your browser and go to [http://localhost:5000/](http://localhost:5000/)
 
 ## Contributors
-[Marati Divyateja](https://github.com/maratidivya)
-[Seerla Parimala](https://github.com/seerla-parimala)
-[Musal Reddy Gari Sravanthi](https://github.com/mrgsravanthi)
+* [Marati Divyateja](https://github.com/maratidivya)
+* [Seerla Parimala](https://github.com/seerla-parimala)
+* [Musal Reddy Gari Sravanthi](https://github.com/mrgsravanthi)
 
 
 
