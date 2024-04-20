@@ -26,8 +26,8 @@ Dataset files are as follows:
 1.Make sure to install [Anaconda](https://www.anaconda.com/download/success)
 
 2.Install the requirements.txt
-'''python
 
+'''python
   pip install -r requirements.txt
 
 
