@@ -43,7 +43,7 @@ python app.py
 
 ## Contributors
 * [Divyateja](https://github.com/maratidivya)
-* [Parimala](https://github.com/parimala)
+* [Parimala](https://github.com/seerla-parimala)
 * [Sravanthi](https://github.com/mrgsravanthi)
 
 
