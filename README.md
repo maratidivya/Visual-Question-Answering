@@ -27,7 +27,7 @@ Dataset files are as follows:
 
 2.Install the requirements.txt
 
-  '''pip install -r requirements.txt'''
+  ''' pip install -r requirements.txt '''
 
 
 
