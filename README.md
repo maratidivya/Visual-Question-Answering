@@ -33,7 +33,7 @@ Dataset files are as follows:
   pip install -r requirements.txt
   ```
 
-3.Run the application
+3.Run the application in Anaconda prompt
 
 ```python
 python app.py
