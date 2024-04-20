@@ -21,8 +21,8 @@ Dataset files are as follows:
 
 ## User Interface
 
+![Screenshot 2024-04-07 150540](https://github.com/maratidivya/Visual-Question-Answering/assets/107937294/3f5e3b85-3e61-4093-a47b-87fc9de1b242)
 
-![Screenshot 2024-04-07 145324](https://github.com/maratidivya/Visual-Question-Answering/assets/107937294/3d79f8a5-b362-40d8-9c77-3ec0aa2918a3)
 
 ## How to run this
 1.Make sure to install [Anaconda](https://www.anaconda.com/download/success)
