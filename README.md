@@ -34,14 +34,15 @@ Dataset files are as follows:
   ```python
   pip install -r requirements.txt
   ```
+3. Run the vqa_code.ipynb , and you need to place the trained model in the Saved_Models folder with the name model.pth. (You also get the onehotencoder for answer and answer_type, you can also replace that files in the Saved_models folder if needed.)
 
-3.Run the application in Anaconda prompt
+4.Run the application in Anaconda prompt
 
 ```python
 python app.py
 ```
 
-4.Open your browser and go to [http://localhost:5000/](http://localhost:5000/)
+5.Open your browser and go to [http://localhost:5000/](http://localhost:5000/)
 
 ## Contributors
 * [Marati Divyateja](https://github.com/maratidivya)
