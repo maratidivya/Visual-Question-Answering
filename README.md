@@ -2,6 +2,8 @@
 
 Welcome to our Visual Question Answering project! Our goal is to create an intelligent system that can answer simple questions about images. We've created a user-friendly web application that allows you to interact with our system and see its capabilities in action.
 
+Check the report for more information.
+
 ## Dataset
 For this project, we used the [VizWiz](https://www.kaggle.com/datasets/lhanhsin/vizwiz/data) dataset. It is a large-scale visual question answering dataset that contains
 
@@ -30,6 +32,20 @@ Dataset files are as follows:
   ```python
   pip install -r requirements.txt
   ```
+
+3.Run the application
+
+```python
+python app.py
+```
+
+4.Open your browser and go to [http://localhost:5000/](http://localhost:5000/)
+
+## Contributors
+* [Divyateja](https://github.com/maratidivya)
+* [Parimala](https://github.com/parimala)
+* [Sravanthi](https://github.com/mrgsravanthi)
+
 
 
 
