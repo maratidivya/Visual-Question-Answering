@@ -23,7 +23,7 @@ Dataset files are as follows:
 
 
 
-<img src= "https://github.com/maratidivya/Visual-Question-Answering/assets/107937294/3f5e3b85-3e61-4093-a47b-87fc9de1b242" width="600" height="600" >
+<img src= "https://github.com/maratidivya/Visual-Question-Answering/assets/107937294/3f5e3b85-3e61-4093-a47b-87fc9de1b242" width="600" height="500" >
 
 
 ## How to run this
